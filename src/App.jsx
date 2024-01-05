@@ -6,6 +6,10 @@ import {
   OurClients,
   Section1,
   Section2,
+  Section3,
+  Section4,
+  Section5,
+  Section6,
 } from "./Components"
 
 function App() {
@@ -17,6 +21,10 @@ function App() {
       <Comunity />
       <Section1 />
       <Section2 />
+      <Section3 />
+      <Section4 />
+      <Section5 />
+      <Section6 />
     </div>
   )
 }
