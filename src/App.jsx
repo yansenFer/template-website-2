@@ -2,6 +2,7 @@ import "./App.css"
 import {
   Carousel,
   Comunity,
+  Footer,
   Navbar,
   OurClients,
   Section1,
@@ -25,6 +26,7 @@ function App() {
       <Section4 />
       <Section5 />
       <Section6 />
+      <Footer />
     </div>
   )
 }
